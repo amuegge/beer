@@ -28,6 +28,7 @@ For 6 gallons (23 L)
 # variations
 ### 05/14/16 - i fucking love simcoe!
 * OG: 1.060 (see below)
+
 1. recipe changes
   * Munich LME doesn't exist here.  conversion to 1lb munich malt
   * Crystal 15 was out, did 1lb Crystal 20 and munich malt as a partial mash
