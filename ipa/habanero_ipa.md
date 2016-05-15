@@ -28,10 +28,10 @@ For 6 gallons (23 L)
 ### 05/14/16 - i fucking love simcoe!
 1. recipe changes
   * Munich LME doesn't exist here.  conversion to 1lb munich malt
-  * Crystal 15 was out, did 1lb Crystal 40 and munich malt as a partial mash
+  * Crystal 15 was out, did 1lb Crystal 20 and munich malt as a partial mash
   * All hops changed to 4oz simcoe.
 2. process
-  * 1 hour partial infusion with 1lb munich malt and 1lb C40
+  * 1 hour partial infusion with 1lb munich malt and 1lb C20
   * hop schedule changed to 1oz at each 60/45/30/15 (per brooklyn's ipa)
   * brought volume up to 27L, because christopher can't read too good
   * added 30g hulled and seeded fresh habanero peppers.
