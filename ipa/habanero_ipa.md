@@ -1,5 +1,5 @@
 modified from : http://www.homebrewersassociation.org/homebrew-recipe/beer-recipe-of-the-week-hoppiness-is-an-ipa/
-and the brooklyn beer 1g guide: <url>
+and the brooklyn beer 1g guide: http://brooklynbrewshop.com/beer-making-kits/jalapeno-saison
 
 # original hoppiness:
 For 6 gallons (23 L)
